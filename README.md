@@ -20,11 +20,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/deepankarvarma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="deepankarvarma" height="30" width="40" /></a>
-<a href="https://twitter.com/varma_deepankar" target="blank"><img align="center" src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image" alt="varma_deepankar" height="30" width="30"  /></a>
+<a href="https://twitter.com/varma_deepankar" target="blank"><img align="center" src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image" alt="varma_deepankar" height="40" width="40"  /></a>
 <a href="https://linkedin.com/in/deepankar-varma-a46875134" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619026364~hmac=d71c880ca698a52d58438cfee3357993" alt="deepankar-varma-a46875134" height="30" width="40" /></a>
-<a href="https://instagram.com/d_eepankar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="d_eepankar_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/deepankar varma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="deepankar varma" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/deepankarvarma03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="deepankarvarma03" height="30" width="40" /></a>
+<a href="https://instagram.com/d_eepankar_" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="d_eepankar_" height="40" width="40" /></a>
+<a href="https://www.youtube.com/c/deepankar varma" target="blank"><img align="center" src="https://i.pinimg.com/originals/7d/c9/93/7dc993c70d4adba215b87cafdc59d82d.png" alt="deepankar varma" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/deepankarvarma03" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="deepankarvarma03" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
