@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepankar</h1>
 <h3 align="center">A passionate geeky techie from India</h3>
 
-<img  align="center" src="https://drive.google.com/file/d/1htZic1PoszKTFGhrltEW-nBWt3JBROX4">
+<img  align="center" src="https://lh3.googleusercontent.com/SJ7H-cPtBSrakOydD1IoHydDRMSnc14lWIXzRfIZLvNVCveUOc5wJNZILwLrxJF_tuboSTITJVDmJFPQpH266IzUqwPj5p4ZvBydEwNHreozDJRRtQMxeF4DrkMaP1Br2XGrN7DJUce8uXnFSFTMDH-GDPj8-ciAJNnrTxKryn0MaWXFbWs4nk-8P7Rr0taKbY-VHnqj84EXgib7CvE8kokE9AFXnFc_4FozIVCajGZCaav8LGGeTlmkh24ykczAy4m6lOCrF7BSn762t-rFXmXln57Uiwmnj53I9tsNrgQKID3KIM__FEPWhbUy9-QoPOIiRHESU-wCpC5CFf6rM6UOwlr5FXrWBBNbyfobx6aD08hCh_6IUJ8-apzCZiSddsNGcg4Q1X-rbRCc3fIRywtFbZlgaCQgDLfDW0dwntPsCT4sq-8C_VVMPlcdMTGhFztBYHxHOfx9IX-_MLi6US6U7QxRN7nWoUzKLwqFMcYba7Yn7O0xoNvDv52G61QzdgauvvKrxYlXobpgow5MAnCWWv9CF3r0hcIJ-l_q6r593nQFnk90fr6yN2oZtwQF9Q0GPv44MSCnl_pai8_MmHkT0f1egash3BlJNOeKR0Dw7gDrWH3cUbvp4wjfzBW-N73g7OSx9495lMNtnJTZEy56S8KUnSRQOhWye-VFlUFSiSt3y7vnK9SPllPL2dE_QqMiys44gt-GNhd5I3mEbSc=w1568-h948-no?authuser=0">
 
 - 🌱 I’m currently learning  **Object Oriented Programming**
 
