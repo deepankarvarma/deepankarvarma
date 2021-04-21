@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/varma_deepankar" target="blank"><img src="https://img.shields.io/twitter/follow/varma_deepankar?logo=twitter&style=for-the-badge" alt="varma_deepankar" /></a> </p>
 
-- 🌱 I’m currently learning Object Oriented Programming **Object Oriented Programming**
+- 🌱 I’m currently learning  **Object Oriented Programming**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/deepankar-varma-a46875134/](https://www.linkedin.com/in/deepankar-varma-a46875134/)
 
