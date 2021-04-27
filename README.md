@@ -3,6 +3,8 @@
 <a href="https://deepankarvarma.github.io/profile/" target="_blank">
 <img  align="center" src="https://raw.githubusercontent.com/deepankarvarma/deepankarvarma/main/20201231_180510.jpg">
 </a>
+<br>
+
 - 🌱 I’m currently learning  **Object Oriented Programming**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/deepankar-varma-a46875134/](https://www.linkedin.com/in/deepankar-varma-a46875134/)
