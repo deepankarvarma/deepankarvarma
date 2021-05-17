@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepankar</h1>
 <h3 align="center">A passionate geeky techie from India</h3>
 <a href="https://deepankarvarma.github.io/profile/" target="_blank">
-<a href="https://deepankarvarma.github.io/"  
+<a href="https://deepankarvarma.github.io/" target="_blank">  
 <img  align="center" src="https://raw.githubusercontent.com/deepankarvarma/deepankarvarma/main/20201231_180510.jpg"></a>
 </a>
 <br>
