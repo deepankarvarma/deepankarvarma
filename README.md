@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I am a night hawk.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me here:</h3>
 <p align="left">
 <a href="https://dev.to/deepankarvarma" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png" alt="deepankarvarma" height="30" width="30" />&nbsp; &nbsp;</a>
 <a href="https://twitter.com/varma_deepankar" target="blank"><img align="center" src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image" alt="varma_deepankar" height="40" width="40"  />&nbsp; &nbsp;</a>
