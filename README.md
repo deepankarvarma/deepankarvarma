@@ -35,7 +35,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepankarvarma&show_icons=true&locale=en" alt="deepankarvarma" /></p>
-<img alt="Deepankar Varma's Top Languages" src="https://camo.githubusercontent.com/144df24b096c74f6bafd199cdd072f7ecf3c496fe968160bb19692fd19a0dbb6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d616332353033266c616e67735f636f756e743d3826636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374267468656d653d726561637426686964655f626f726465723d747275652662675f636f6c6f723d304431313137" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepankarvarma&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" style="max-width: 100%;">
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepankarvarma&" alt="deepankarvarma" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepankarvarma&label=Profile%20views&color=0e75b6&style=flat" alt="deepankarvarma" /> </p>
 
