@@ -7,7 +7,7 @@
 <br>
 <br>
 
-- 🌱 I’m currently learning  **Object Oriented Programming**
+- 🌱 I’m currently learning  **Competitive Programming**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/deepankar-varma-a46875134/](https://www.linkedin.com/in/deepankar-varma-a46875134/)
 
@@ -35,7 +35,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepankarvarma&show_icons=true&locale=en" alt="deepankarvarma" /></p>
-
+<img alt="Deepankar Varma's Top Languages" src="https://camo.githubusercontent.com/144df24……6561637…" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepankarvarma&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" style="max-width: 100%;">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepankarvarma&" alt="deepankarvarma" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepankarvarma&label=Profile%20views&color=0e75b6&style=flat" alt="deepankarvarma" /> </p>
 
