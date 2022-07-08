@@ -39,4 +39,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepankarvarma&" alt="deepankarvarma" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepankarvarma&label=Profile%20views&color=0e75b6&style=flat" alt="deepankarvarma" /> </p>
 
-<p align="left"> <a href="https://twitter.com/varma_deepankar" target="blank"><img src="https://img.shields.io/twitter/follow/varma_deepankar?logo=twitter&style=for-the-badge" alt="varma_deepankar" /></a> </p>
