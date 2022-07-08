@@ -21,9 +21,9 @@
 
 <h3 align="left">My Profiles:</h3>
 <p align="left">
-<a href="https://dev.to/deepankarvarma" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" alt="deepankarvarma" height="30" width="30" />&nbsp;</a>
-<a href="https://twitter.com/varma_deepankar" target="blank"><img align="center" src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image" alt="varma_deepankar" height="40" width="40"  />&nbsp; </a>
-<a href="https://www.linkedin.com/in/deepankar-varma/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="deepankar-varma-a46875134" height="30" width="40" />&nbsp;</a>
+<a href="https://dev.to/deepankarvarma" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" alt="deepankarvarma" height="30" width="30" /></a>
+<a href="https://twitter.com/varma_deepankar" target="blank"><img align="center" src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image" alt="varma_deepankar" height="40" width="40"  /> </a>
+<a href="https://www.linkedin.com/in/deepankar-varma/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="deepankar-varma-a46875134" height="30" width="30" /></a>
 <a href="https://instagram.com/d_eepankar_" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="d_eepankar_" height="30" width="30" />&nbsp; &nbsp;</a>
 <a href="https://www.youtube.com/channel/UCRvY6kElW8uHW1iupWuoqEA" target="blank"><img align="center" src="https://i.pinimg.com/originals/7d/c9/93/7dc993c70d4adba215b87cafdc59d82d.png" alt="deepankar varma" height="40" width="40" />&nbsp; &nbsp;</a>
 <a href="https://www.hackerrank.com/deepankarvarma3" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="deepankarvarma03" height="40" width="40" />&nbsp; &nbsp;</a>
