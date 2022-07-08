@@ -25,10 +25,10 @@
 <a href="https://twitter.com/varma_deepankar" target="blank"><img align="center" src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image" alt="varma_deepankar" height="40" width="40"  /> </a>
 <a href="https://www.linkedin.com/in/deepankar-varma/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="deepankar-varma-a46875134" height="30" width="30" />&nbsp;</a>
 <a href="https://instagram.com/d_eepankar_" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="d_eepankar_" height="30" width="30" /> &nbsp;</a>
-<a href="https://www.codechef.com/users/deepankar2077" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png" alt="deepankar2077" height="40" width="100" /></a>
+<a href="https://www.codechef.com/users/deepankar2077" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png" alt="deepankar2077" height="40" width="100" />&nbsp;</a>
 <a href="https://leetcode.com/satwikdpshrit/" target="blank"><img align="center" src="http://terrylu.tech/2021/05/22/leetcode/cover.png" alt="satwikdpshrit" height="30" width="100" />&nbsp;</a>
 <a href="https://www.hackerrank.com/deepankarvarma3" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="deepankarvarma03" height="40" width="40" />&nbsp;</a>
-  <a href="https://www.hackerrank.com/deepankarvarma3" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="deepankarvarma03" height="40" width="40" />&nbsp;</a>
+  <a href="https://www.codingninjas.com/codestudio/profile/10e3e954-f273-41d9-bef1-d846134ff2e0" target="blank"><img align="center" src="https://www.codingninjas.com/landing/wp-content/uploads/2022/01/codestudio-by-CN-white-logo-7.png" alt="deepankarvarma03" height="40" width="40" />&nbsp;</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
