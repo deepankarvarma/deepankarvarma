@@ -2,7 +2,7 @@
 <h3 align="center">A passionate techie from India</h3>
 <a href="https://deepankarvarma.github.io/profile/" target="_blank">
 <a href="https://deepankarvarma.github.io/" target="_blank">  
-<img  align="center" src="https://raw.githubusercontent.com/deepankarvarma/deepankarvarma/main/13072022.png"></a>
+<img  align="center" src="https://raw.githubusercontent.com/deepankarvarma/deepankarvarma/main/130720221.png"></a>
 </a>
 <br>
 <br>
