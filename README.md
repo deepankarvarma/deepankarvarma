@@ -38,13 +38,6 @@
 | <a href="https://github.com/deepankarvarma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=deepankarvarma&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Deepankar's github stats" /></a> | <a href="https://github.com/deepankarvarma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepankarvarma&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepankarvarma" alt="deepankarvarma" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepankarvarma&" alt="deepankarvarma" /></p>
-
-
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=deepankarvarma&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=deepankarvarma)  
