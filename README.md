@@ -39,4 +39,4 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=deepankarvarma)  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepankarvarma&label=Profile%20views&color=0e75b6&style=flat" alt="deepankarvarma" /> </p>
 
-![GitHub metrics](https://metrics.lecoq.io/deepankarvarma) 
+<!-- ![GitHub metrics](https://metrics.lecoq.io/deepankarvarma)  -->
