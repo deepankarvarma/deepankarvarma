@@ -68,7 +68,7 @@
 
 <h3 align="left">Database Management System:</h3>
 
-| <a href="https://github.com/deepankarvarma/Library_Management_System_DBMS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=Library_Management_System_DBMS&theme=algolia&hide_border=false" /></a> | <a href="https://github.com/deepankarvarma/Airline_Management_System_DBMS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=Airline_Management_System_DBMS&theme=algolia&border_radius=6&></a> | 
+| <a href="https://github.com/deepankarvarma/Library_Management_System_DBMS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=Library_Management_System_DBMS&theme=algolia&hide_border=false" /></a> | <a href="https://github.com/deepankarvarma/Airline_Management_System_DBMS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=Airline_Management_System_DBMS&theme=algolia&border_radius=6&hide_border=false"></a> | 
 | ------------- | ------------- |
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=deepankarvarma)   -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepankarvarma&label=Profile%20views&color=0e75b6&style=flat" alt="deepankarvarma" /> </p> -->
