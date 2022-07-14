@@ -48,9 +48,9 @@
 | <a href="https://github.com/deepankarvarma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=deepankarvarma&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&border_radius=6" alt="Deepankar's github stats" /></a> | <a href="https://github.com/deepankarvarma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepankarvarma&layout=compact&theme=algolia&border_radius=6&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<h3 align="left">Top Repositories:</h3>
+<h3 align="left">App Development:</h3>
 
-| <a href="https://github.com/deepankarvarma/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=deepankarvarma.github.io&theme=algolia&hide_border=true" /></a> | <a href="https://github.com/deepankarvarma/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=DSA-Self-Practice--Leetcode--Codechef--DSA-Sheet-&theme=algolia&border_radius=6&hide_border=true" /></a> |
+| <a href="https://github.com/deepankarvarma/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=College--Saathi&theme=algolia&hide_border=true" /></a> | <a href="https://github.com/deepankarvarma/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=Hacklipse-2020-TechAgro&theme=algolia&border_radius=6&hide_border=true" /></a> | <a href="https://github.com/deepankarvarma/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=demoelcappdev&theme=algolia&border_radius=6&hide_border=true" /></a>
 | ------------- | ------------- |
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=deepankarvarma)   -->
