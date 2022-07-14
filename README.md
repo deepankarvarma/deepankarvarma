@@ -41,8 +41,14 @@
   <code><a href ="https://www.codingninjas.com/codestudio/profile/10e3e954-f273-41d9-bef1-d846134ff2e0"><img height="30" alt="javascript" src="https://www.codingninjas.com/landing/wp-content/uploads/2022/01/codestudio-by-CN-white-logo-7.png"></a></code>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>&nbsp &nbsp; </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> &nbsp; &nbsp;</a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp; &nbsp; </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp; &nbsp; </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> &nbsp; &nbsp;</a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp; &nbsp; </a> </p>
 
+
+    <code><a href ="https://www.arduino.cc/"><img height="30" alt="javascript" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"></a></code>
+        <code><a href ="https://www.cprogramming.com/"><img height="30" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a></code>
+    <code><a href ="https://www.w3schools.com/cpp/"><img height="30" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a></code>
+    <code><a href ="https://firebase.google.com/"><img height="30" alt="javascript" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
+<code><a href ="https://www.w3.org/html/"><img height="30" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></a></code>
+<code><a href ="https://www.mysql.com/"><img height="30" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></a></code>
 
 
 | <a href="https://github.com/deepankarvarma"><img align="center" src="https://github-readme-stats.vercel.app/api?username=deepankarvarma&locale=en&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&border_radius=6" alt="Deepankar's github stats" /></a> | <a href="https://github.com/deepankarvarma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepankarvarma&layout=compact&theme=algolia&border_radius=6&hide_border=true" /></a> |
