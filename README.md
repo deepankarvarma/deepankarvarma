@@ -20,7 +20,7 @@
 - ⚡ Fun fact **I am a night hawk.**
 
 <h3 align="left">My Profiles:</h3>
-<p align="left">
+
 <!-- <a href="https://dev.to/deepankarvarma" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" alt="deepankarvarma" height="30" width="30" /></a> -->
 
 <!-- <a href="https://twitter.com/varma_deepankar" target="blank"><img align="center" src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image" alt="varma_deepankar" height="40" width="40"  /> </a>
