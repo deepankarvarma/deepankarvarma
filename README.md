@@ -55,7 +55,7 @@
 
 <h3 align="left">Web Development:</h3>
 
-| <a href="https://github.com/deepankarvarma/HackX_Backtrackers"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=hmswebd&theme=algolia&hide_border=true" /></a> | <a href="https://github.com/deepankarvarma/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=HackX_Backtrackers&theme=algolia&border_radius=6&hide_border=true" /></a> | 
+| <a href="https://github.com/deepankarvarma/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=hmswebd&theme=algolia&hide_border=true" /></a> | <a href="https://github.com/deepankarvarma/HackX_Backtrackers"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=HackX_Backtrackers&theme=algolia&border_radius=6&hide_border=true" /></a> | 
 | ------------- | ------------- |
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=deepankarvarma)   -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepankarvarma&label=Profile%20views&color=0e75b6&style=flat" alt="deepankarvarma" /> </p> -->
