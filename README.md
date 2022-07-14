@@ -50,12 +50,12 @@
 
 <h3 align="left">App Development:</h3>
 
-| <a href="https://github.com/deepankarvarma/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=College--Saathi&theme=algolia&hide_border=true" /></a> | <a href="https://github.com/deepankarvarma/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=Hacklipse-TechAgro&theme=algolia&border_radius=6&hide_border=true" /></a> | 
+| <a href="https://github.com/deepankarvarma/College--Saathi"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=College--Saathi&theme=algolia&hide_border=true" /></a> | <a href="https://github.com/deepankarvarma/Hacklipse-TechAgro"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=Hacklipse-TechAgro&theme=algolia&border_radius=6&hide_border=true" /></a> | 
 | ------------- | ------------- |
 
 <h3 align="left">Web Development:</h3>
 
-| <a href="https://github.com/deepankarvarma/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=hmswebd&theme=algolia&hide_border=true" /></a> | <a href="https://github.com/deepankarvarma/DayForce-HackX"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=DayForce-HackX&theme=algolia&border_radius=6&hide_border=true" /></a> | 
+| <a href="https://github.com/deepankarvarma/hmswebd"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=hmswebd&theme=algolia&hide_border=true" /></a> | <a href="https://github.com/deepankarvarma/DayForce-HackX"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=DayForce-HackX&theme=algolia&border_radius=6&hide_border=true" /></a> | 
 | ------------- | ------------- |
 
 <h3 align="left">Database Management System:</h3>
