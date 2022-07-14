@@ -48,6 +48,7 @@
 <code><a href ="https://www.w3.org/html/"><img height="30" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></a></code>
 <code><a href ="https://www.mysql.com/"><img height="30" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></a></code>
  <code><a href ="https://www.python.org/community/logos/"><img height="30" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"></a></code>
+  <code><a href ="https://www.w3schools.com/css/"><img height="30" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></a></code>
 <br>
 <br>
 
