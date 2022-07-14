@@ -41,9 +41,7 @@
   <code><a href ="https://www.codingninjas.com/codestudio/profile/10e3e954-f273-41d9-bef1-d846134ff2e0"><img height="30" alt="javascript" src="https://www.codingninjas.com/landing/wp-content/uploads/2022/01/codestudio-by-CN-white-logo-7.png"></a></code>
 
 <h3 align="left">Languages and Tools:</h3>
-
-
-    <code><a href ="https://www.arduino.cc/"><img height="30" alt="javascript" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"></a></code>
+<code><a href ="https://www.arduino.cc/"><img height="30" alt="javascript" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"></a></code>
         <code><a href ="https://www.cprogramming.com/"><img height="30" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a></code>
     <code><a href ="https://www.w3schools.com/cpp/"><img height="30" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a></code>
     <code><a href ="https://firebase.google.com/"><img height="30" alt="javascript" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
