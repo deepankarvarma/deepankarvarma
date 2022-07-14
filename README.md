@@ -22,7 +22,7 @@
 <h3 align="left">My Profiles:</h3>
 <p align="left">
 <a href="https://dev.to/deepankarvarma" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" alt="deepankarvarma" height="30" width="30" /></a>
-<code><img height="20" alt="javascript" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png"></code>
+<code><img height="30" alt="javascript" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png"></code>
 <a href="https://twitter.com/varma_deepankar" target="blank"><img align="center" src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image" alt="varma_deepankar" height="40" width="40"  /> </a>
 <a href="https://www.linkedin.com/in/deepankar-varma/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="deepankar-varma-a46875134" height="30" width="30" />&nbsp;</a>
 <a href="https://instagram.com/d_eepankar_" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="d_eepankar_" height="30" width="30" /> &nbsp;</a>
