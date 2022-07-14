@@ -49,7 +49,7 @@
 
 #### Top Repositories
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepankarvarma&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepankarvarma&show_icons=true&theme=algolia)
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a>
