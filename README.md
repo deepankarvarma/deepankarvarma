@@ -50,7 +50,7 @@
 
 <h3 align="left">Top Repositories:</h3>
 
-| <a href="https://github.com/deepankarvarma/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=deepankarvarma.github.io&theme=algolia&border_color=0080ff" /></a> | <a href="https://github.com/deepankarvarma/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=DSA-Self-Practice--Leetcode--Codechef--DSA-Sheet-&theme=algolia&show_owner=true&border_radius=6&border_color=0080ff"" /></a> |
+| <a href="https://github.com/deepankarvarma/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=deepankarvarma.github.io&theme=algolia&border_color=0080ff" /></a> | <a href="https://github.com/deepankarvarma/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=DSA-Self-Practice--Leetcode--Codechef--DSA-Sheet-&theme=algolia&show_owner=true&border_radius=6&border_color=0080ff" /></a> |
 | ------------- | ------------- |
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=deepankarvarma)   -->
