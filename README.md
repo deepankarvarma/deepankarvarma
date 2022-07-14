@@ -50,7 +50,7 @@
 
 <h3 align="left">App Development:</h3>
 
-| <a href="https://github.com/deepankarvarma/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=College--Saathi&theme=algolia&hide_border=true" /></a> | <a href="https://github.com/deepankarvarma/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=Hacklipse-2020-TechAgro&theme=algolia&border_radius=6&hide_border=true" /></a> | 
+| <a href="https://github.com/deepankarvarma/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=College--Saathi&theme=algolia&hide_border=true" /></a> | <a href="https://github.com/deepankarvarma/"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nimeshgarg&repo=Hacklipse-2020-TechAgro&theme=algolia&border_radius=6&hide_border=true" /></a> | 
 | ------------- | ------------- |
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=deepankarvarma)   -->
