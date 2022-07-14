@@ -54,7 +54,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=deepankarvarma.github.io&theme=algolia" />
 </a>
 <a href="https://github.com/deepankarvarma/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=DSA-Self-Practice--Leetcode--Codechef--DSA-Sheet-&theme=algolia&show_owner=true&border_color=blue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepankarvarma&repo=DSA-Self-Practice--Leetcode--Codechef--DSA-Sheet-&theme=algolia&show_owner=true&border_color=#0000FF" />
 </a>
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=deepankarvarma)   -->
