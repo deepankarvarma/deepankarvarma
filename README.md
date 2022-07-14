@@ -49,6 +49,8 @@
 <code><a href ="https://www.mysql.com/"><img height="30" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></a></code>
 
 <br>
+<br>
+<br>
 
 | <a href="https://github.com/deepankarvarma"><img align="center" src="https://github-readme-stats.vercel.app/api?username=deepankarvarma&locale=en&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&border_radius=6" alt="Deepankar's github stats" /></a> | <a href="https://github.com/deepankarvarma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepankarvarma&layout=compact&theme=algolia&border_radius=6&hide_border=true" /></a> |
 | ------------- | ------------- |
