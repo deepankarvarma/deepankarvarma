@@ -45,7 +45,7 @@
 
 
 
-| <a href="https://github.com/deepankarvarma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=deepankarvarma&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/deepankarvarma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=deepankarvarma&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Deepankar's github stats" /></a> | <a href="https://github.com/deepankarvarma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepankarvarma&layout=compact&theme=algolia&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
