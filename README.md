@@ -47,7 +47,7 @@
     <code><a href ="https://firebase.google.com/"><img height="30" alt="javascript" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
 <code><a href ="https://www.w3.org/html/"><img height="30" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></a></code>
 <code><a href ="https://www.mysql.com/"><img height="30" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></a></code>
-
+ <code><a href ="https://www.python.org/community/logos/"><img height="30" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"></a></code>
 <br>
 <br>
 
