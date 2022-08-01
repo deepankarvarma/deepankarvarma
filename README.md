@@ -33,6 +33,7 @@
 </p> -->
 <code><a href ="https://dev.to/deepankarvarma"><img height="30" alt="javascript" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png"></a></code>
 <code><a href ="https://www.linkedin.com/in/deepankar-varma/"><img height="30" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png"></a></code>
+  <code><a href ="https://twitter.com/varma_deepankar"><img height="30" alt="javascript" src="https://www.lter-europe.net/document-archive/image-gallery/albums/logos/TwitterLogo_55acee.png/image"></a></code>
   <code><a href ="https://instagram.com/d_eepankar_"><img height="30" alt="javascript" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png"></a></code>
     <code><a href ="https://www.hackerrank.com/deepankarvarma3"><img height="30" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"></a></code>
   <code><a href ="https://www.codechef.com/users/deepankar2077"><img height="30" alt="javascript" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png"></a></code>
