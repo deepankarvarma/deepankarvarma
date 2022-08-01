@@ -38,7 +38,7 @@
     <code><a href ="https://www.hackerrank.com/deepankarvarma3"><img height="30" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"></a></code>
   <code><a href ="https://www.codechef.com/users/deepankar2077"><img height="30" alt="javascript" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png"></a></code>
   <code><a href ="https://leetcode.com/satwikdpshrit/"><img height="30" alt="javascript" src="http://terrylu.tech/2021/05/22/leetcode/cover.png"></a></code>
- 
+  <code><a href ="https://www.codingninjas.com/codestudio/profile/10e3e954-f273-41d9-bef1-d846134ff2e0"><img height="30" alt="javascript" src="https://www.codingninjas.com/landing/wp-content/uploads/2022/01/codestudio-by-CN-white-logo-7.png"></a></code>
 
 <h3 align="left">Languages and Tools:</h3>
 <code><a href ="https://www.arduino.cc/"><img height="30" alt="javascript" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"></a></code>
