@@ -21,7 +21,7 @@
 
 <h3 align="left">My Profiles:</h3>
 
-<!-- <a href="https://dev.to/deepankarvarma" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" alt="deepankarvarma" height="30" width="30" /></a> -->
+<a href="https://dev.to/deepankarvarma" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" alt="deepankarvarma" height="30" width="30" /></a>
 
 
 <a href="https://www.linkedin.com/in/deepankar-varma/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="deepankar-varma-a46875134" height="30" width="30" />&nbsp;</a>
