@@ -53,7 +53,7 @@
 <br>
 
 
-| <a href="https://github.com/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=deepankarvarma&locale=en&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&border_radius=6" alt="Deepankar's github stats" /></a> | <a href="https://github.com/deepankarvarma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepankarvarma&layout=compact&theme=algolia&border_radius=6&hide_border=true" /></a> |
+| <a href="https://github.com/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=deepankarvarm&locale=en&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true&border_radius=6" alt="Deepankar's github stats" /></a> | <a href="https://github.com/deepankarvarma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepankarvarma&layout=compact&theme=algolia&border_radius=6&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <h3 align="left">App Development:</h3>
