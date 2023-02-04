@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <a href="https://github.com/deepankarvarma/deepankarvarma/blob/main/DSA%20ONE%20COURSE%20PLAYLIST.pdf target=_blank">Deepankar</h1>
+<h1 align="center">Hi there 👋, I'm <a href="https://github.com/deepankarvarma/deepankarvarma/blob/main/DSA%20ONE%20COURSE%20PLAYLIST.pdf">Deepankar</h1>
 <!-- <h3 align="center">A passionate techie from India</h3> -->
 <a href="https://deepankarvarma.github.io/profile/" target="_blank">
 <a href="https://deepankarvarma.github.io/" target="_blank">  
