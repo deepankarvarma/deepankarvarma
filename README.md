@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <a href="https://github.com/deepankarvarma/deepankarvarma/blob/main/DSA%20ONE%20COURSE%20PLAYLIST.pdf">Deepankar</h1>
+<!-- <h1 align="center">Hi there 👋, I'm <a href="https://github.com/deepankarvarma/deepankarvarma/blob/main/DSA%20ONE%20COURSE%20PLAYLIST.pdf">Deepankar</h1> -->
 <!-- <h3 align="center">A passionate techie from India</h3> -->
 <a href="https://deepankarvarma.github.io/profile/" target="_blank">
 <a href="https://deepankarvarma.github.io/" target="_blank">  
@@ -7,17 +7,16 @@
 <br>
 <br>
 
-- 🌱 I’m currently learning  **Competitive Programming**
+👋 Hello! I'm <b>Deepankar</b> , a 3rd year computer science student at Thapar Institute of Engineering & Technology.
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/deepankar-varma-a46875134/](https://www.linkedin.com/in/deepankar-varma-a46875134/)
+💻 I am passionate about all things tech and software development. I have experience in various programming languages, including C/C++,Java, Python and many more. I am always looking to expand my skills and learn new technologies.
 
-- 💬 Ask me about **HTML,CSS,C,C++**
+🚀 Currently, I am working on Handwriting Recognitizer, which is an Image Processing Project. I am also actively seeking internships or part-time positions to gain more hands-on experience in the tech industry.
 
-- 📫 How to reach me **satwikdpshrit@gmail.com**
+📚 Outside of coding, I enjoy reading about technology and staying up-to-date with the latest tech trends. I also enjoy Gaming, Photography, and Reading.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/deepankar-varma-a46875134/](https://www.linkedin.com/in/deepankar-varma-a46875134/)
+📫 You can reach me at satwikdpshrit@gmail.com or connect with me on <a href="https://www.linkedin.com/in/deepankar-varma/">LinkedIn. I am always open to collaborating on projects or discussing new opportunities. Let's build something amazing together!
 
-- ⚡ Fun fact **I am a night hawk.**
 
 <h3 align="left">My Profiles:</h3>
 
