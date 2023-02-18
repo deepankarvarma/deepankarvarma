@@ -7,15 +7,15 @@
 <br>
 <br>
 
-👋 Hello! I'm <b>Deepankar</b> , a 3rd year computer science student at Thapar Institute of Engineering & Technology.
+👋 Hello! I'm <b>Deepankar</b> , a 3rd year computer science student at <b>Thapar Institute of Engineering & Technology</b>.
 
-💻 I am passionate about all things tech and software development. I have experience in various programming languages, including C/C++,Java, Python and many more. I am always looking to expand my skills and learn new technologies.
+💻 I am passionate about all things tech and software development. I have experience in various programming languages, including <b>C/C++,Java, Python and many more</b>. I am always looking to expand my skills and learn new technologies.
 
-🚀 Currently, I am working on Handwriting Recognitizer, which is an Image Processing Project. I am also actively seeking internships or part-time positions to gain more hands-on experience in the tech industry.
+🚀 Currently, I am working on <b>Handwriting Recognitizer</b>, which is an <b>Image Processing Project</b>. I am also actively searching internships or part-time positions to gain more hands-on experience in the tech industry.
 
-📚 Outside of coding, I enjoy reading about technology and staying up-to-date with the latest tech trends. I also enjoy Gaming, Photography, and Reading.
+📚 Outside of coding, I enjoy reading about technology and staying up-to-date with the latest tech trends. I also enjoy <b>Gaming, Photography, and Reading</b>.
 
-📫 You can reach me at satwikdpshrit@gmail.com or connect with me on <a href="https://www.linkedin.com/in/deepankar-varma/">LinkedIn. I am always open to collaborating on projects or discussing new opportunities. Let's build something amazing together!
+📫 You can reach me at satwikdpshrit@gmail.com or connect with me on <a href="https://www.linkedin.com/in/deepankar-varma/">LinkedIn</a>. I am always open to collaborating on projects or discussing new opportunities. Let's build something amazing together!
 
 
 <h3 align="left">My Profiles:</h3>
