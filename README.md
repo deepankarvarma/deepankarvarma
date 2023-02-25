@@ -13,7 +13,7 @@
 
 🚀 Currently, I am working on <b>Handwriting Recognitizer</b>, which is an <b>Image Processing Project</b>. I am also actively searching internships or part-time positions to gain more hands-on experience in the tech industry.
 
-📚 Outside of coding, I enjoy reading about technology and staying up-to-date with the latest tech trends. I also enjoy <b>Gaming, Photography, and Reading</b>.
+📚 Outside of coding, I enjoy reading about technology and staying up-to-date with the latest tech trends. You can find my blogs at <a href="https://medium.com/@deepankar-varma">Medium</a>.I also enjoy <b>Gaming, Photography, and Reading</b>.
 
 📫 You can reach me at satwikdpshrit@gmail.com or connect with me on <a href="https://www.linkedin.com/in/deepankar-varma/">LinkedIn</a>. I am always open to collaborating on projects or discussing new opportunities. Let's build something amazing together!
 
