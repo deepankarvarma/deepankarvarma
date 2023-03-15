@@ -6,7 +6,7 @@
 </a>
 <br>
 <br>
-
+![](https://komarev.com/ghpvc/?username=deepankarvarma)
 👋 Hello! I'm <b>Deepankar</b> , a 3rd year computer science student at <b>Thapar Institute of Engineering & Technology</b>.
 
 💻 I am passionate about all things tech and software development. I have experience in various programming languages, including <b>C/C++,Java, Python and many more</b>. I am always looking to expand my skills and learn new technologies.
