@@ -11,7 +11,7 @@
 
 💻 I am passionate about all things tech and software development. I have experience in various programming languages, including <b>C/C++,Java, Python and many more</b>. I am always looking to expand my skills and learn new technologies.
 
-🚀 Currently, I am working on <b>Handwriting Recognitizer</b>, which is an <b>Image Processing Project</b>. I am also actively searching internships or part-time positions to gain more hands-on experience in the tech industry.
+🚀 Currently, I am focusing on <b>The Odin's Project</b>. I am also actively searching internships or part-time positions to gain more hands-on experience in the tech industry.
 
 📚 Outside of coding, I enjoy reading about technology and staying up-to-date with the latest tech trends. You can find my blogs at <a href="https://medium.com/@deepankar-varma">Medium</a>.I also enjoy <b>Gaming, Photography, and Reading</b>.
 
