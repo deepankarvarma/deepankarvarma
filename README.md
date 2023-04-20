@@ -8,7 +8,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepankarvarma&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkadiyan" /> </p>
 👋 Greetings fellow techies! I'm <b>Deepankar</b> , a dynamic 3rd year computer science student at <b>Thapar Institute of Engineering & Technology</b>.<br>
-
+<br>
 💻 I am deeply passionate about all tech things and software development, with a diverse skill set encompassing various programming languages, including <b>C/C++,Java, Python and many more</b>. I am constantly on the lookout for opportunities to expand my knowledge and expertise.
 
 🚀  Currently, I am immersed in <b>Docker , Kubernetes</b>, honing my skills and mastering new technologies to stay ahead of the game. As a forward-thinking individual, I am also actively seeking internships and part-time positions to gain hands-on experience and build a solid foundation in the tech industry.
