@@ -7,7 +7,7 @@
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepankarvarma&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkadiyan" /> </p>
-👋 Greetings fellow techies! I'm <b>Deepankar</b> , a dynamic 3rd year computer science student at <b>Thapar Institute of Engineering & Technology</b>.
+👋 Greetings fellow techies! I'm <b>Deepankar</b> , a dynamic 3rd year computer science student at <b>Thapar Institute of Engineering & Technology</b>.<br>
 
 💻 I am deeply passionate about all tech things and software development, with a diverse skill set encompassing various programming languages, including <b>C/C++,Java, Python and many more</b>. I am constantly on the lookout for opportunities to expand my knowledge and expertise.
 
