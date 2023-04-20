@@ -8,15 +8,15 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepankarvarma&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkadiyan" /> </p>
 👋 Greetings fellow techies! I'm <b>Deepankar</b> , a dynamic 3rd year computer science student at <b>Thapar Institute of Engineering & Technology</b>.
-<br>
+<br><br>
 💻 I am deeply passionate about all tech things and software development, with a diverse skill set encompassing various programming languages, including <b>C/C++,Java, Python and many more</b>. I am constantly on the lookout for opportunities to expand my knowledge and expertise.
-<br>
+<br><br>
 🚀  Currently, I am immersed in <b>Docker , Kubernetes</b>, honing my skills and mastering new technologies to stay ahead of the game. As a forward-thinking individual, I am also actively seeking internships and part-time positions to gain hands-on experience and build a solid foundation in the tech industry.
-<br>
+<br><br>
 📚 Beyond coding, I am an avid reader and tech enthusiast, staying abreast of the latest trends and developments in the ever-evolving tech landscape. You can find my captivating blogs on <a href="https://medium.com/@deepankar-varma">Medium</a>, where I share my insights and perspectives on various tech-related topics. Additionally, I enjoy indulging in <b> Gaming, Photography, and Reading</b> to keep my creative juices flowing.
-<br>
+<br><br>
 📫 Looking to collaborate on innovative projects or explore new opportunities? Feel free to reach out to me at satwikdpshrit@gmail.com or connect with me on <a href="https://www.linkedin.com/in/deepankar-varma/">LinkedIn</a>. Let's join forces and build something truly exceptional together!
-<br>
+<br><br>
 
 <h3 align="left">My Profiles:</h3>
 
