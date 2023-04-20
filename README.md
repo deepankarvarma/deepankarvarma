@@ -18,7 +18,6 @@
 📫 Looking to collaborate on innovative projects or explore new opportunities? Feel free to reach out to me at satwikdpshrit@gmail.com or connect with me on <a href="https://www.linkedin.com/in/deepankar-varma/">LinkedIn</a>. Let's join forces and build something truly exceptional together!
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepankarvarma&label=Profile%20views&color=0e75b6&style=flat" alt="deepankarvarma" /> </p>
-<br>
 <h3 align="left">My Profiles:</h3>
 
 <!-- <a href="https://dev.to/deepankarvarma" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" alt="deepankarvarma" height="30" width="30" /></a> -->
