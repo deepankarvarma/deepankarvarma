@@ -7,15 +7,15 @@
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepankarvarma&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkadiyan" /> </p>
-👋 Hello! I'm <b>Deepankar</b> , a 3rd year computer science student at <b>Thapar Institute of Engineering & Technology</b>.
+👋 Greetings fellow techies! I'm <b>Deepankar</b> , a dynamic 3rd year computer science student at <b>Thapar Institute of Engineering & Technology</b>.
 
-💻 I am passionate about all things tech and software development. I have experience in various programming languages, including <b>C/C++,Java, Python and many more</b>. I am always looking to expand my skills and learn new technologies.
+💻 I am deeply passionate about all tech things and software development, with a diverse skill set encompassing various programming languages, including <b>C/C++,Java, Python and many more</b>. I am constantly on the lookout for opportunities to expand my knowledge and expertise.
 
-🚀 Currently, I am focusing on <b>The Odin's Project</b>. I am also actively searching internships or part-time positions to gain more hands-on experience in the tech industry.
+🚀  Currently, I am immersed in <b>Docker , Kubernetes</b>, honing my skills and mastering new technologies to stay ahead of the game. As a forward-thinking individual, I am also actively seeking internships and part-time positions to gain hands-on experience and build a solid foundation in the tech industry.
 
-📚 Outside of coding, I enjoy reading about technology and staying up-to-date with the latest tech trends. You can find my blogs at <a href="https://medium.com/@deepankar-varma">Medium</a>.I also enjoy <b>Gaming, Photography, and Reading</b>.
+📚 Beyond coding, I am an avid reader and tech enthusiast, staying abreast of the latest trends and developments in the ever-evolving tech landscape. You can find my captivating blogs on <a href="https://medium.com/@deepankar-varma">Medium</a>, where I share my insights and perspectives on various tech-related topics. Additionally, I enjoy indulging in <b> Gaming, Photography, and Reading</b> to keep my creative juices flowing.
 
-📫 You can reach me at satwikdpshrit@gmail.com or connect with me on <a href="https://www.linkedin.com/in/deepankar-varma/">LinkedIn</a>. I am always open to collaborating on projects or discussing new opportunities. Let's build something amazing together!
+📫 Looking to collaborate on innovative projects or explore new opportunities? Feel free to reach out to me at satwikdpshrit@gmail.com or connect with me on <a href="https://www.linkedin.com/in/deepankar-varma/">LinkedIn</a>. Let's join forces and build something truly exceptional together!
 
 
 <h3 align="left">My Profiles:</h3>
