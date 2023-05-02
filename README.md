@@ -15,7 +15,7 @@
 <br><br>
 📚 Beyond coding, I am an avid reader and tech enthusiast, staying abreast of the latest trends and developments in the ever-evolving tech landscape. You can find my captivating blogs on <a href="https://medium.com/@deepankar-varma">Medium</a>, where I share my insights and perspectives on various tech-related topics. Additionally, I enjoy indulging in <b> Gaming, Photography, and Reading</b> to keep my creative juices flowing.
 <br><br>
-📫 Looking to collaborate on innovative projects or explore new opportunities? Feel free to reach out to me at satwikdpshrit@gmail.com or connect with me on <a href="https://www.linkedin.com/in/deepankar-varma/">LinkedIn</a>. Let's join forces and build something truly exceptional together!
+📫 Looking to collaborate on innovative projects or explore new opportunities? Feel free to reach out to me at <a href="mailto:satwikdpshrit@gmail.com">satwikdpshrit@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/deepankar-varma/">LinkedIn</a>. Let's join forces and build something truly exceptional together!
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepankarvarma&label=Profile%20views&color=0e75b6&style=flat" alt="deepankarvarma" /> </p>
 <h3 align="left">My Profiles:</h3>
