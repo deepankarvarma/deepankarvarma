@@ -6,7 +6,7 @@
 </a>
 <br>
 <br>
-<p align="center"> <a href="https://github.com/deepankarvarma/deepankarvarma/raw/main/Deepankar%20Varma%20-Latex.pdf">My Resume</a> &nbsp; | &nbsp; <a href="https://deepankarvarma.github.io/" target="_blank" rel="noopener noreferrer">My Portfolio</a> &nbsp; | &nbsp; <a href="https://www.kaggle.com/deepankarvarma/Home">Kaggle Profile</a></p>
+<p align="center"> <a href="https://github.com/deepankarvarma/deepankarvarma/blob/b24811d5077c08ffdd0eedc79fcf1b1d5ef5feb9/Deepankar_Varma_Latex.pdf">My Resume</a> &nbsp; | &nbsp; <a href="https://deepankarvarma.github.io/" target="_blank" rel="noopener noreferrer">My Portfolio</a> &nbsp; | &nbsp; <a href="https://www.kaggle.com/deepankarvarma/Home">Kaggle Profile</a></p>
 👋 Greetings fellow techies! I'm <b>Deepankar</b> , a dynamic 3rd year computer science student at <b>Thapar Institute of Engineering & Technology</b>.
 <br><br>
 💻 I am deeply passionate about all tech things and software development, with a diverse skill set encompassing various programming languages, including <b>C/C++,Java, Python and many more</b>. I am constantly on the lookout for opportunities to expand my knowledge and expertise.
