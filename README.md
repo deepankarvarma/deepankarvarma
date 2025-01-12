@@ -52,10 +52,6 @@
 - Reader: Devouring books to spark creativity.
 
 ---
-
-🎉 Let’s create something exceptional together!
-
-<br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepankarvarma&label=Profile%20views&color=0e75b6&style=flat" alt="deepankarvarma" /> </p>
 <h3 align="left">My Profiles:</h3>
 
