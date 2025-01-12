@@ -7,15 +7,58 @@
 <br>
 <br>
 <p align="center"> <a href="https://github.com/deepankarvarma/deepankarvarma/blob/b24811d5077c08ffdd0eedc79fcf1b1d5ef5feb9/Deepankar_Varma_Latex.pdf">My Resume</a> &nbsp; | &nbsp; <a href="https://deepankarvarma.github.io/" target="_blank" rel="noopener noreferrer">My Portfolio</a> &nbsp; | &nbsp; <a href="https://www.kaggle.com/deepankarvarma/Home">Kaggle Profile</a></p>
-👋 Greetings fellow techies! I'm <b>Deepankar</b> , a dynamic 4th year computer science student at <b>Thapar Institute of Engineering & Technology</b>.
-<br><br>
-💻 I am deeply passionate about all tech things and software development, with a diverse skill set encompassing various programming languages, including <b>C/C++,Java, Python and many more</b>. I am constantly on the lookout for opportunities to expand my knowledge and expertise.
-<br><br>
-🚀  Currently, I am immersed in <b>Docker , Kubernetes</b>, honing my skills and mastering new technologies to stay ahead of the game. As a forward-thinking individual, I am also actively seeking internships and part-time positions to gain hands-on experience and build a solid foundation in the tech industry.
-<br><br>
-📚 Beyond coding, I am an avid reader and tech enthusiast, staying abreast of the latest trends and developments in the ever-evolving tech landscape. You can find my captivating blogs on <a href="https://medium.com/@deepankar-varma">Medium</a>, where I share my insights and perspectives on various tech-related topics. Additionally, I enjoy indulging in <b> Gaming, Photography, and Reading</b> to keep my creative juices flowing.
-<br><br>
-📫 Looking to collaborate on innovative projects or explore new opportunities? Feel free to reach out to me at <a href="mailto:satwikdpshrit@gmail.com">satwikdpshrit@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/deepankar-varma/">LinkedIn</a>. Let's join forces and build something truly exceptional together!
+### Hello World! I'm Deepankar Varma ✌️
+
+✨ **A driven Software Development Engineer at HSBC Technology India!**
+
+---
+
+⚛️ **About Me:**
+- 🎓 Recently graduated in Computer Science from the prestigious **Thapar Institute of Engineering & Technology**.
+- 💻 Passionate about **software development** and solving real-world problems through code.
+- ⚖️ Currently working on enterprise-grade solutions using cutting-edge technologies at **HSBC Technology India**.
+
+---
+
+🚀 **Tech Stack:**
+- Languages: **Java**, **Python**, **C/C++**, and more.
+- Frameworks & Tools: **Spring**, **Spring Boot**, **PySpark**.
+- DevOps: Proficient with **Docker** and **Kubernetes**.
+- Cloud: Hands-on with **AWS Services**.
+- Methodologies: Skilled in **Agile development**, **code versioning**, and **CI/CD pipelines**.
+
+---
+
+✅ **Professional Interests:**
+- ⚙️ Building efficient and scalable applications.
+- 🛠️ Automating production workflows and enhancing DevOps processes.
+- 🌐 Exploring advanced cloud technologies and machine learning integrations.
+
+---
+
+📈 **Growth Mindset:**
+- 🎡 Stay curious and embrace continuous learning.
+- ⚡️ Follow emerging trends in tech to adapt and innovate.
+- 🏆 Striving for excellence in all endeavors.
+
+---
+
+🔍 **Find Me Online:**
+- Medium: Sharing my perspectives on **tech blogs** and **developer journeys**.
+- LinkedIn: Let's connect and collaborate for **innovative projects** and **opportunities**.
+- Email: Reach me at **satwikdpshrit@gmail.com**.
+
+---
+
+🎮 Outside the Code:
+- Gamer: Love immersing in fantasy worlds.
+- Photographer: Capturing moments one frame at a time.
+- Reader: Devouring books to spark creativity.
+
+---
+
+🎉 Let’s create something exceptional together!
+
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepankarvarma&label=Profile%20views&color=0e75b6&style=flat" alt="deepankarvarma" /> </p>
 <h3 align="left">My Profiles:</h3>
