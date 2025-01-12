@@ -7,13 +7,9 @@
 <br>
 <br>
 <p align="center"> <a href="https://github.com/deepankarvarma/deepankarvarma/blob/b24811d5077c08ffdd0eedc79fcf1b1d5ef5feb9/Deepankar_Varma_Latex.pdf">My Resume</a> &nbsp; | &nbsp; <a href="https://deepankarvarma.github.io/" target="_blank" rel="noopener noreferrer">My Portfolio</a> &nbsp; | &nbsp; <a href="https://www.kaggle.com/deepankarvarma/Home">Kaggle Profile</a></p>
-### Hello World! I'm Deepankar Varma ✌️
-
-✨ **A driven Software Development Engineer at HSBC Technology India!**
-
----
 
 ⚛️ **About Me:**
+- ✨ Currently working as SDE at HSBC Technology India.
 - 🎓 Recently graduated in Computer Science from the prestigious **Thapar Institute of Engineering & Technology**.
 - 💻 Passionate about **software development** and solving real-world problems through code.
 - ⚖️ Currently working on enterprise-grade solutions using cutting-edge technologies at **HSBC Technology India**.
